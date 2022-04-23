@@ -2,7 +2,14 @@
 Reto. Describe el proceso en que se computa las siguientes fórmulas.
 
 X = (18/9 * 2 + 16) – ( 5 * 4 – 3^3)
-
+INICIO
+X =(18/9)= 2
+X = (2*2)= 4
+X = (4+16) = 20
+X = (5*4) = 20
+X = (3^3) = 27
+X = (20 - 27)= -7
+X = -7
 X = (5 + 2 * 4) – (25 +. 5)2
 
 X = (100/5^2 + 1) + 11 * 3
